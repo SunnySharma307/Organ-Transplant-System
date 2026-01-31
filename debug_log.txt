@@ -1,0 +1,301 @@
+
+--- API Call 2026-01-30 22:44:08.198671 ---
+Found 201 total recipients.
+Processing 5 pending patients.
+SUCCESS: Saved match REQ-0NYD
+SUCCESS: Saved match REQ-0CET
+SUCCESS: Saved match REQ-0HWQ
+SUCCESS: Saved match REQ-0PUO
+SUCCESS: Saved match REQ-0ZHI
+
+--- API Call 2026-01-30 22:47:46.283560 ---
+Found 201 total recipients.
+Processing 5 pending patients.
+SUCCESS: Saved match REQ-0NYD
+SUCCESS: Saved match REQ-0CET
+SUCCESS: Saved match REQ-0HWQ
+
+--- API Call 2026-01-30 22:47:47.229053 ---
+Found 201 total recipients.
+Processing 5 pending patients.
+SUCCESS: Saved match REQ-0PUO
+SUCCESS: Saved match REQ-0ZHI
+SUCCESS: Saved match REQ-0NYD
+SUCCESS: Saved match REQ-0CET
+SUCCESS: Saved match REQ-0HWQ
+SUCCESS: Saved match REQ-0PUO
+SUCCESS: Saved match REQ-0ZHI
+
+--- API Call 2026-01-30 22:54:25.330112 ---
+Found 201 total recipients.
+Processing 5 pending patients.
+SUCCESS: Saved match REQ-0NYD
+SUCCESS: Saved match REQ-0CET
+SUCCESS: Saved match REQ-0HWQ
+SUCCESS: Saved match REQ-0PUO
+SUCCESS: Saved match REQ-0ZHI
+
+--- API Call 2026-01-30 23:04:22.856298 ---
+Found 201 total recipients.
+Processing 5 pending patients.
+SUCCESS: Saved match REQ-0NYD
+SUCCESS: Saved match REQ-0CET
+SUCCESS: Saved match REQ-0HWQ
+SUCCESS: Saved match REQ-0PUO
+SUCCESS: Saved match REQ-0ZHI
+
+--- API Call 2026-01-30 23:05:47.075308 ---
+Found 201 total recipients.
+Processing 5 pending patients.
+SUCCESS: Saved match REQ-0NYD
+SUCCESS: Saved match REQ-0CET
+SUCCESS: Saved match REQ-0HWQ
+SUCCESS: Saved match REQ-0PUO
+SUCCESS: Saved match REQ-0ZHI
+
+--- API Call 2026-01-30 23:05:52.315155 ---
+Found 201 total recipients.
+Processing 5 pending patients.
+SUCCESS: Saved match REQ-0NYD
+SUCCESS: Saved match REQ-0CET
+SUCCESS: Saved match REQ-0HWQ
+SUCCESS: Saved match REQ-0PUO
+SUCCESS: Saved match REQ-0ZHI
+
+--- API Call 2026-01-30 23:13:30.319007 ---
+Found 201 total recipients.
+Processing 5 pending patients.
+SUCCESS: Saved match REQ-0NYD
+SUCCESS: Saved match REQ-0CET
+SUCCESS: Saved match REQ-0HWQ
+SUCCESS: Saved match REQ-0PUO
+SUCCESS: Saved match REQ-0ZHI
+
+--- API Call 2026-01-30 23:14:25.988847 ---
+Found 201 total recipients.
+Processing 5 pending patients.
+SUCCESS: Saved match REQ-0NYD
+SUCCESS: Saved match REQ-0CET
+SUCCESS: Saved match REQ-0HWQ
+SUCCESS: Saved match REQ-0PUO
+SUCCESS: Saved match REQ-0ZHI
+
+--- API Call 2026-01-30 23:15:26.386942 ---
+Found 201 total recipients.
+Processing 5 pending patients.
+SUCCESS: Saved match REQ-0NYD
+SUCCESS: Saved match REQ-0CET
+SUCCESS: Saved match REQ-0HWQ
+SUCCESS: Saved match REQ-0PUO
+SUCCESS: Saved match REQ-0ZHI
+
+--- API Call 2026-01-30 23:35:20.828892 ---
+Found 201 total recipients.
+Processing 5 pending patients.
+SUCCESS: Saved match REQ-0NYD
+SUCCESS: Saved match REQ-0CET
+SUCCESS: Saved match REQ-0HWQ
+SUCCESS: Saved match REQ-0PUO
+SUCCESS: Saved match REQ-0ZHI
+
+--- API Call 2026-01-30 23:36:48.882167 ---
+Found 201 total recipients.
+Processing 5 pending patients.
+SUCCESS: Saved match REQ-0NYD
+SUCCESS: Saved match REQ-0CET
+SUCCESS: Saved match REQ-0HWQ
+SUCCESS: Saved match REQ-0PUO
+SUCCESS: Saved match REQ-0ZHI
+
+--- API Call 2026-01-30 23:39:45.589440 ---
+Found 201 total recipients.
+Processing 5 pending patients.
+SUCCESS: Saved match REQ-0NYD
+SUCCESS: Saved match REQ-0CET
+SUCCESS: Saved match REQ-0HWQ
+SUCCESS: Saved match REQ-0PUO
+SUCCESS: Saved match REQ-0ZHI
+
+--- API Call 2026-01-30 23:40:09.832630 ---
+Found 201 total recipients.
+Processing 5 pending patients.
+SUCCESS: Saved match REQ-0NYD
+SUCCESS: Saved match REQ-0CET
+SUCCESS: Saved match REQ-0HWQ
+SUCCESS: Saved match REQ-0PUO
+SUCCESS: Saved match REQ-0ZHI
+
+--- API Call 2026-01-30 23:42:12.216994 ---
+Found 201 total recipients.
+Processing 5 pending patients.
+SUCCESS: Saved match REQ-0NYD
+SUCCESS: Saved match REQ-0CET
+SUCCESS: Saved match REQ-0HWQ
+SUCCESS: Saved match REQ-0PUO
+SUCCESS: Saved match REQ-0ZHI
+
+--- API Call 2026-01-30 23:50:57.371443 ---
+Found 201 total recipients.
+Processing 5 pending patients.
+SUCCESS: Saved match REQ-0NYD
+SUCCESS: Saved match REQ-0CET
+SUCCESS: Saved match REQ-0HWQ
+SUCCESS: Saved match REQ-0PUO
+SUCCESS: Saved match REQ-0ZHI
+
+--- API Call 2026-01-30 23:52:19.115293 ---
+Found 201 total recipients.
+Processing 5 pending patients.
+SUCCESS: Saved match REQ-0NYD
+SUCCESS: Saved match REQ-0CET
+SUCCESS: Saved match REQ-0HWQ
+SUCCESS: Saved match REQ-0PUO
+SUCCESS: Saved match REQ-0ZHI
+
+--- API Call 2026-01-30 23:58:59.201882 ---
+Found 201 total recipients.
+Processing 5 pending patients.
+SUCCESS: Saved match REQ-0NYD
+SUCCESS: Saved match REQ-0CET
+SUCCESS: Saved match REQ-0HWQ
+SUCCESS: Saved match REQ-0PUO
+SUCCESS: Saved match REQ-0ZHI
+
+--- API Call 2026-01-31 00:08:04.979021 ---
+Found 201 total recipients.
+Processing 5 pending patients.
+SUCCESS: Saved match REQ-0NYD
+SUCCESS: Saved match REQ-0CET
+SUCCESS: Saved match REQ-0HWQ
+SUCCESS: Saved match REQ-0PUO
+SUCCESS: Saved match REQ-0ZHI
+
+--- API Call 2026-01-31 00:08:10.526767 ---
+Found 201 total recipients.
+Processing 5 pending patients.
+SUCCESS: Saved match REQ-0NYD
+SUCCESS: Saved match REQ-0CET
+SUCCESS: Saved match REQ-0HWQ
+SUCCESS: Saved match REQ-0PUO
+SUCCESS: Saved match REQ-0ZHI
+
+--- API Call 2026-01-31 00:10:19.848398 ---
+Found 201 total recipients.
+Processing 5 pending patients.
+SUCCESS: Saved match REQ-0NYD
+SUCCESS: Saved match REQ-0CET
+SUCCESS: Saved match REQ-0HWQ
+SUCCESS: Saved match REQ-0PUO
+SUCCESS: Saved match REQ-0ZHI
+
+--- API Call 2026-01-31 00:18:27.477454 ---
+Found 201 total recipients.
+Processing 5 pending patients.
+
+--- API Call 2026-01-31 01:23:59.785870 ---
+Found 20 total recipients.
+Processing 5 pending patients.
+
+--- API Call 2026-01-31 01:23:59.791422 ---
+Found 20 total recipients.
+Processing 5 pending patients.
+SUCCESS: Saved match REQ-063I
+SUCCESS: Saved match REQ-063I
+SUCCESS: Saved match REQ-4PR9
+SUCCESS: Saved match REQ-4PR9
+SUCCESS: Saved match REQ-PUHP
+SUCCESS: Saved match REQ-PUHP
+SUCCESS: Saved match REQ-QVVY
+SUCCESS: Saved match REQ-QVVY
+SUCCESS: Saved match REQ-04WA
+SUCCESS: Saved match REQ-04WA
+
+--- API Call 2026-01-31 01:24:48.208869 ---
+Found 20 total recipients.
+Processing 5 pending patients.
+SUCCESS: Saved match REQ-063I
+SUCCESS: Saved match REQ-4PR9
+SUCCESS: Saved match REQ-PUHP
+SUCCESS: Saved match REQ-QVVY
+SUCCESS: Saved match REQ-04WA
+
+--- API Call 2026-01-31 01:24:49.194683 ---
+Found 20 total recipients.
+Processing 5 pending patients.
+SUCCESS: Saved match REQ-063I
+SUCCESS: Saved match REQ-4PR9
+SUCCESS: Saved match REQ-PUHP
+SUCCESS: Saved match REQ-QVVY
+SUCCESS: Saved match REQ-04WA
+
+--- API Call 2026-01-31 01:30:37.788384 ---
+Found 20 total recipients.
+Processing 5 pending patients.
+SUCCESS: Saved match REQ-063I
+SUCCESS: Saved match REQ-4PR9
+SUCCESS: Saved match REQ-PUHP
+SUCCESS: Saved match REQ-QVVY
+SUCCESS: Saved match REQ-04WA
+
+--- API Call 2026-01-31 01:30:38.892486 ---
+Found 20 total recipients.
+Processing 5 pending patients.
+SUCCESS: Saved match REQ-063I
+SUCCESS: Saved match REQ-4PR9
+SUCCESS: Saved match REQ-PUHP
+SUCCESS: Saved match REQ-QVVY
+SUCCESS: Saved match REQ-04WA
+
+--- API Call 2026-01-31 01:40:48.962169 ---
+Found 20 total recipients.
+Processing 5 pending patients.
+SUCCESS: Saved match REQ-063I
+SUCCESS: Saved match REQ-4PR9
+SUCCESS: Saved match REQ-PUHP
+SUCCESS: Saved match REQ-QVVY
+SUCCESS: Saved match REQ-04WA
+
+--- API Call 2026-01-31 01:41:24.054233 ---
+Found 20 total recipients.
+Processing 5 pending patients.
+SUCCESS: Saved match REQ-063I
+SUCCESS: Saved match REQ-4PR9
+SUCCESS: Saved match REQ-PUHP
+SUCCESS: Saved match REQ-QVVY
+SUCCESS: Saved match REQ-04WA
+
+--- API Call 2026-01-31 01:52:42.247025 ---
+Found 20 total recipients.
+Processing 5 pending patients.
+ERROR saving match REQ-063I: name 'db' is not defined
+ERROR saving match REQ-4PR9: name 'db' is not defined
+ERROR saving match REQ-PUHP: name 'db' is not defined
+ERROR saving match REQ-QVVY: name 'db' is not defined
+ERROR saving match REQ-04WA: name 'db' is not defined
+
+--- API Call 2026-01-31 01:53:34.301633 ---
+Found 20 total recipients.
+Processing 5 pending patients.
+SUCCESS: Saved match REQ-063I
+SUCCESS: Saved match REQ-4PR9
+SUCCESS: Saved match REQ-PUHP
+SUCCESS: Saved match REQ-QVVY
+SUCCESS: Saved match REQ-04WA
+
+--- API Call 2026-01-31 01:55:36.110512 ---
+Found 20 total recipients.
+Processing 5 pending patients.
+SUCCESS: Saved match REQ-063I
+SUCCESS: Saved match REQ-4PR9
+SUCCESS: Saved match REQ-PUHP
+SUCCESS: Saved match REQ-QVVY
+SUCCESS: Saved match REQ-04WA
+
+--- API Call 2026-01-31 01:55:45.296558 ---
+Found 20 total recipients.
+Processing 5 pending patients.
+SUCCESS: Saved match REQ-063I
+SUCCESS: Saved match REQ-4PR9
+SUCCESS: Saved match REQ-PUHP
+SUCCESS: Saved match REQ-QVVY
+SUCCESS: Saved match REQ-04WA
